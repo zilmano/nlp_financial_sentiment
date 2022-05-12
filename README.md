@@ -1,18 +1,18 @@
 # nlp_financial_sentiment
 
 You will need the following python libraries to run. Requirments:
-pandas
-math
-numpy
-pandas
-sklearn
-nltk
-gensim
-spacy
-transformers
-datasets
-tqdm
-yfinance
+- pandas
+- math
+- numpy
+- pandas
+- sklearn
+- nltk
+- gensim
+- spacy
+- transformers
+- datasets
+- tqdm
+- yfinance
 
 
 The code was ran on Python 3.9. No Running guaratess for lower version. All packages were installed latest versions from pip. 
