@@ -1,5 +1,7 @@
 # nlp_financial_sentiment
 
+Final project for LIN 373 Class by Dr. Jessy Li. 
+
 You will need the following python libraries to run. Requirments:
 - pandas
 - math
